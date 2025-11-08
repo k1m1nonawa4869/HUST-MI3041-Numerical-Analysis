@@ -1,5 +1,5 @@
-# HUST-MI3041-Numerical-Analysis
- A place for my appromixation number method.
+# FaMI304x-Numerical-Analysis
+ A place for my appromixation number method (using AI Agent of course).
 
  In collaboration with wonderful teammates of MI1-K68:
  * Doan Vinh Nhan
@@ -14,4 +14,6 @@
  * mathplotlib
  * sympy
 
- For interactive experience, please visit: https://colab.research.google.com/drive/1CHWoonrCRVfp68gAgrNehbeefCuciOEg?usp=sharing
+ For interactive experience
+ * My Google Collab: https://colab.research.google.com/drive/1CHWoonrCRVfp68gAgrNehbeefCuciOEg?usp=sharing
+ * Recently I have turned on Public Template for the project. So you can toggle GitHub Workspace to try it out.
